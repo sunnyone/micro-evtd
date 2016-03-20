@@ -113,7 +113,7 @@ TIMER* ponTimer=NULL;
 char* pDelayProcesses = NULL;
 int last_day;
 char i_debug=0;
-int iTempRange[4]={30, 37, 40, 60};
+int iTempRange[4]={35, 45, 50, 60};
 int fanFaultSeize=30;
 char iControlFan=1;
 int refreshRate=40;
